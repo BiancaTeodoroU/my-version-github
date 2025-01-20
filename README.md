@@ -1,4 +1,4 @@
-# Projeto com React usando a API do github para visualizações das issues do github 
+# Projeto com React usando a API do github para visualizações das issues
 
 ## Para iniciar o projeto antes é necessário instalar as dependência
 
