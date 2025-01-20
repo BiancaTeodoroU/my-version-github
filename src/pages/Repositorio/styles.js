@@ -7,7 +7,7 @@ export const Loading = styled.div`
 	align-items: center;
 	justify-content: center;
 	height: 100vh;
-`
+`;
 
 export const Container = styled.div`
   max-width: 43.75rem;
@@ -16,7 +16,7 @@ export const Container = styled.div`
 	box-shadow: 0 0 1.25rem rgba(0, 0, 0, 0.2);
 	padding: 1.875rem;
 	margin: 5rem auto;
-`
+`;
 
 export const Owner = styled.div`
   display: flex;
@@ -42,7 +42,7 @@ export const Owner = styled.div`
 		line-height: .0875rem;
 		max-width: 400px;
 	}
-`
+`;
 
 export const BackButton = styled(Link)`
 	border: 0;
